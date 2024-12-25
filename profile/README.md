@@ -2,9 +2,6 @@
  <img src="./logo.png" width=400/>
 </div>
 
-<h1 align="center">
-  SkyFare
-</h1>
 <p align="center">
  Platform aplikasi berbaasis website penjualan tiket pesawat secara online, jadi kamu bisa beli tiket dimanapun dan kapanpun tanpa harus mengantri di bandara atau tempat-tempat lain yang menjual tiket pesawat secara offline. Menjadikan lebih hemat tenaga, waktu, dan uang.
 </p>
